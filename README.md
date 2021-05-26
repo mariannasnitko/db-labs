@@ -1,3 +1,3 @@
 # db-labs
 
-Labs do Data Bases Univesity Course
+Labs for Data Bases Univesity Course
